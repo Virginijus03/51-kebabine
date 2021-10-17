@@ -4,6 +4,9 @@
         "./*"
     ],
     "compilerOptions": {
-        "removeComments": true
+        "removeComments": true,
+        "target": "ES6",
+        "strict": true,
+        "strictNullChecks": true
     }
 }
